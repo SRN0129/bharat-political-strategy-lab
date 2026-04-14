@@ -1,0 +1,8 @@
+[
+  {"segment":"Welfare-sensitive (low income)","weight":0.32},
+  {"segment":"Aspirational middle class","weight":0.28},
+  {"segment":"Rural voters","weight":0.22},
+  {"segment":"Urban voters","weight":0.18},
+  {"segment":"Youth voters","weight":0.24},
+  {"segment":"Older voters","weight":0.16}
+]
