@@ -1,0 +1,9 @@
+[
+  {"year":2000,"sentiment":48},{"year":2001,"sentiment":46},{"year":2002,"sentiment":42},{"year":2003,"sentiment":51},
+  {"year":2004,"sentiment":50},{"year":2005,"sentiment":53},{"year":2006,"sentiment":55},{"year":2007,"sentiment":58},
+  {"year":2008,"sentiment":49},{"year":2009,"sentiment":54},{"year":2010,"sentiment":52},{"year":2011,"sentiment":45},
+  {"year":2012,"sentiment":44},{"year":2013,"sentiment":43},{"year":2014,"sentiment":61},{"year":2015,"sentiment":60},
+  {"year":2016,"sentiment":57},{"year":2017,"sentiment":56},{"year":2018,"sentiment":55},{"year":2019,"sentiment":62},
+  {"year":2020,"sentiment":41},{"year":2021,"sentiment":47},{"year":2022,"sentiment":52},{"year":2023,"sentiment":56},
+  {"year":2024,"sentiment":59},{"year":2025,"sentiment":58}
+]
