@@ -1,0 +1,7 @@
+[
+  {"topic":"subsidy","sentiment":61,"sensitivity":0.78},
+  {"topic":"inflation","sentiment":39,"sensitivity":0.91},
+  {"topic":"jobs","sentiment":52,"sensitivity":0.87},
+  {"topic":"electricity","sentiment":64,"sensitivity":0.72},
+  {"topic":"fuel","sentiment":33,"sensitivity":0.89}
+]
