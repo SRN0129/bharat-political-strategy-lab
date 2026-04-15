@@ -467,8 +467,7 @@ function perceptionGapAnalyzer(input: ScenarioInput, factors: FactorMap, mood: R
 
 function extractPromises(manifestoText: string): string[] {
   return manifestoText
-    .split(/[
-.;]/)
+    .split(/[\n.;]/)
     .map((x) => x.trim())
     .filter((x) => x.length > 3);
 }
